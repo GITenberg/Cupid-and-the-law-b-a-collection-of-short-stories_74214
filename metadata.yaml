@@ -1,0 +1,38 @@
+_repo: Cupid-and-the-law-b-a-collection-of-short-stories_74214
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Soares, Rae
+    alias: Soares, Antonio Rae
+    birthdate: 1888
+    deathdate: 1955
+    gutenberg_agent_id: '57393'
+    url: http://www.gutenberg.org/2009/agents/57393
+description: ''
+gutenberg_issued: '2024-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74214'
+  lccn: 08020862
+language: en
+pgterms:marc904: https://archive.org/details/cupidlawcollecti00soar
+pgterms:marc905: 20240312071110soares
+pgterms:marc906: '1908'
+pgterms:marc907: us
+production_note: Carol Brown, Peter Becker and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Hawaiian Gazette Co., Ltd., $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: A deal in opium -- A modern Evangeline -- Cupid and the law -- The
+  new magnetic healer -- In the valley of teeth -- The raid at Punchbowl -- A change
+  of opinion -- A fatal excursion.
+title: 'Cupid and the law : $b a collection of short stories'
+url: http://www.gutenberg.org/ebooks/74214
